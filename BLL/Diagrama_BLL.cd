@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLL.Usuario_BLL">
+    <Position X="0.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAQICIAACAAAIAAQAAAAgBAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Usuario_BLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Bitacora_BLL">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAgAAAEAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bitacora_BLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Stock_BLL">
+    <Position X="3.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAMCAAAAAAAAAAQAACAIAAAAAAAAAACAAAAE=</HashCode>
+      <FileName>Stock_BLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.GestorIdioma_BLL">
+    <Position X="6.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQMAAAAACAAAAAAACABAAAAAAAEAAAACAAAAAICAAA=</HashCode>
+      <FileName>GestorIdioma_BLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.CargaIdiomas_BLL">
+    <Position X="13.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgIAAAABAAAAgAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>CargaIdiomas_BLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.VerificadorBLL">
+    <Position X="10.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAgAAABAAAAAAAEAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>VerificadorBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Permiso_BLL">
+    <Position X="3" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgAAEAQAAAAAAAAAAgAQAAAAQKAAAAAAAAAAAA=</HashCode>
+      <FileName>Permiso_BLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.Backup_BLL">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backup_BLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BLL.IObservadorIdioma">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IObservadorIdioma.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

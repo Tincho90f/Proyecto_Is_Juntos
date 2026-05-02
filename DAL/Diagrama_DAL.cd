@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DAL.Acceso">
+    <Position X="0.5" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAACgAAAAAACACABAAAAAAAAAAQE=</HashCode>
+      <FileName>Acceso.cs</FileName>
+      <NewMemberFileName>ACCESO.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Usuario_Mapper">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQIAAAAQAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Usuario_Mapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Bitacora_Mapper">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAgA=</HashCode>
+      <FileName>Bitacora_Mapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Stock_Mapper">
+    <Position X="3.25" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAACAAAAAAAAAAAAAAAAAAAAEAAAAAQAEA=</HashCode>
+      <FileName>Stock_Mapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Idioma_Mapper">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Idioma_Mapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.CargaIdiomas_Mapper">
+    <Position X="9.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAQAAIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CargaIdiomas_Mapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Verificador_DAL">
+    <Position X="6" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Verificador_DAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Permiso_Mapper">
+    <Position X="9.25" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAQiAAQBAAAACAgAAIAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Permiso_Mapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Backup_Mapper">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAEAAAgAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Backup_Mapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DAL.Acceso">
+    <Position X="0.5" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAACgAAAAAAAACABAAAAAAAAAAQE=</HashCode>
+      <FileName>Acceso.cs</FileName>
+      <NewMemberFileName>ACCESO.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Usuario_Mapper">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Usuario_Mapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Bitacora_Mapper">
+    <Position X="4.25" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAgA=</HashCode>
+      <FileName>Bitacora_Mapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

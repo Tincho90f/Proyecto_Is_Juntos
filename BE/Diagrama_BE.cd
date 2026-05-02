@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BE.Usuario">
+    <Position X="7.75" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgACEAAAAgAAAAAQAAAACAAAAAgAAAgA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Producto">
+    <Position X="5.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABAAAAAAAABAAAASAAQAEAAUAAAgAEAAgAAACA=</HashCode>
+      <FileName>Producto.cs</FileName>
+      <NewMemberFileName>PRODUCTO.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Operacion">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgCACAAAACgAAAAgAAAAQAAAQAAAAEAAAAAAA=</HashCode>
+      <FileName>Operacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Stock">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Bitacora">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bitacora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Traduccion">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAABAAQAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Traduccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Idioma">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAACEAAAAgAAAAAAAAAAAAAAAAABAAEA=</HashCode>
+      <FileName>Idioma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Etiqueta">
+    <Position X="13.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAwAAAAAAAAAAAAAAAgAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Etiqueta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Componente">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAQAIAIAACAAAEAggABAIAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Componente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Patente">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAIAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Patente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Familia">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAQAAAIAAAAAAAAAgAAAAAAAAAAAAAgAEAAAAA=</HashCode>
+      <FileName>Familia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Verificador">
+    <Position X="0.75" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Verificador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.UsuarioRow">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAACAQAAAAACAAA=</HashCode>
+      <FileName>UsuarioRow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BE.TiposDeOperacion">
+    <Position X="0.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAgAEAAIAAAAAAAAAAAAEgABAAAMAAEAAAAAAg=</HashCode>
+      <FileName>TiposDeOperacion.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BE.TipoDeModificacion">
+    <Position X="5.75" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAQAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoDeModificacion.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
